@@ -1,0 +1,15 @@
+// Red, Blue, Green
+
+let colorArr1 = [
+  '#A52A2A','#DEB887','#D2691E','#FF7F50','#DC143C','#FF8C00','#E9967A','#B22222',
+  '#DAA520','#CD5C5C','#FFA500','#FF4500','#FA8072','#FF6347','#FF4500','#EE82EE'
+  ];
+let colorArr2 = [
+  '#7FFFD4','#556B2F','#BDB76B','#006400','#8FBC8F','#228B22','#008000','#7CFC00',
+  '#90EE90','#20B2AA','#32CD32','#66CDAA','#3CB371','#808000','#6B8E23','#9ACD32'
+  ];
+let colorArr3 = [
+  '#00FFFF','#0000FF','#5F9EA0','#6495ED','#00FFFF','#A9A9A9','#483D8B','#00BFFF',
+  '#1E90FF','#DCDCDC','#F8F8FF','#ADD8E6','#87CEFA','#B0C4DE','#0000CD','#4169E1'
+  ];  
+
