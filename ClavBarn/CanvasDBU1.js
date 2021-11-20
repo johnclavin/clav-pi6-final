@@ -1,3 +1,5 @@
+// Canvas Development Backup 1 - John Clavin Nov 19, 2021
+
 import React, { useRef, useEffect } from 'react';
 
 function Canvas(props) {
@@ -33,9 +35,9 @@ function Canvas(props) {
       let jcolor = jcolors[jselect];
       ctx.fillStyle = jcolor;
       ctx.beginPath();
-      let rx = Math.random() * 200 + 10;
-      let ry = Math.random() * 200 + 10;
-      ctx.arc(rx, ry, 9, 0, 2 * Math.PI);
+      let rx = Math.random() * 328 + 16;
+      let ry = Math.random() * 328 + 16;
+      ctx.arc(rx, ry, 12, 0, 2 * Math.PI);
       ctx.fill();
       ctx.lineWidth = 2;
       ctx.strokeStyle = 'black';
@@ -49,7 +51,7 @@ function Canvas(props) {
     draw(context);
   });
 
-  return <canvas ref={canvasRef} width={220} height={220} style={{border:'4px solid #666666'}} />;
+  return <canvas ref={canvasRef} width={360} height={360} style={{border:'6px solid #666666'}} />;
 }
 
 export default Canvas;
