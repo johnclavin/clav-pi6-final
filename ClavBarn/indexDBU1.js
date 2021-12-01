@@ -5,23 +5,23 @@ import App from './App';
 ReactDOM.render(
   <div>
     <div>
-      <App />,
-      <App />,
+      <App />
+      <App />
       <App />
     </div>
     <div>
-      <App />,
-      <App />,
+      <App />
+      <App />
       <App />
     </div>
     <div>
-      <App />,
-      <App />,
+      <App />
+      <App />
       <App />
     </div>
     <div>
-      <App />,
-      <App />,
+      <App />
+      <App />
       <App />
     </div>
   </div>,

@@ -1,0 +1,8 @@
+#register {
+  display: inline-block;
+  background-color: #d3d1cde0;
+  height: 500px;
+  width: 500px;
+  border: 10px solid #474745;
+  margin-left: 30px;
+}

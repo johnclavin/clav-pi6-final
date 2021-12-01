@@ -1,0 +1,10 @@
+#clavinNavigation {
+    width: 20%;
+    height: 40vh;
+    background-color: #dedede;
+    color: white;
+    float: left;
+    top: 20;
+    border: 2px solid #666666;
+}
+ 
