@@ -1,10 +1,23 @@
 #clavinNavigation {
     width: 20%;
     height: 40vh;
-    background-color: #dedede;
+    text-align: center;
+    background-color: #dddddd;
     color: white;
     float: left;
     top: 20;
-    border: 2px solid #666666;
+    border: 3px solid #666666;
 }
+
+.lnk {
+    background-color: #dddddd;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    position: relative;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
  

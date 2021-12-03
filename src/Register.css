@@ -1,8 +1,14 @@
 #register {
   display: inline-block;
-  background-color: #d3d1cde0;
+  background-color: #dddddd;
   height: 500px;
   width: 500px;
-  border: 10px solid #474745;
+  border: 5px solid #474745;
+  text-align: center;
   margin-left: 30px;
+}
+
+#pho {
+  position: relative;
+  top: 60px;
 }
